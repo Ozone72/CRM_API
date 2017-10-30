@@ -6,14 +6,21 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+    v. 2.4.2p111
+
+* Rails version
+    v. 5.1.4
 
 * System dependencies
+    image_magik
 
 * Configuration
 
-* Database creation
+* Database
+    postgres
 
 * Database initialization
+    rake db:create
 
 * How to run the test suite
 
