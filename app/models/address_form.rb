@@ -1,0 +1,2 @@
+class AddressForm < ApplicationRecord
+end

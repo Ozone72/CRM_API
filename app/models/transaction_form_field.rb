@@ -1,0 +1,2 @@
+class TransactionFormField < ApplicationRecord
+end
